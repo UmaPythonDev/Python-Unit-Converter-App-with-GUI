@@ -5,7 +5,7 @@ This app allows users to input a value, select the units to convert from and to,
 
 ---
 
-## ✨ Features
+## Features
 - Convert between:
   - Miles ↔ Kilometers  
   - Pounds ↔ Kilograms  
@@ -15,7 +15,7 @@ This app allows users to input a value, select the units to convert from and to,
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone this repository:  
     git clone https://github.com/UmaPythonDev/Python-Unit-Converter-App-with-GUI.git
 
